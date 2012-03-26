@@ -1,0 +1,49 @@
+@media handheld {
+
+	.selector-01 {
+		padding: 0;
+		margin: 0;
+		}
+	.selector-02 {
+		padding: 0;
+		margin: 0;
+		}
+	.selector-03 {
+		padding: 0;
+		margin: 0;
+		}
+
+}
+
+#content img { 
+		max-width: 250px;
+		}
+.center {
+		width: 100% !important;
+		text-align: center;
+		}
+
+
+html, body {
+	background: #000000;
+	padding: 3px;
+	color: #000;
+	margin: 0;
+	}
+* {
+	float: none;
+	}
+	
+@media only screen and (max-device-width: 480px) { 
+
+	.selector {
+		padding: 0;
+		margin: 0;
+		}
+
+}
+
+html {
+	-webkit-text-size-adjust: none;
+	}
+}

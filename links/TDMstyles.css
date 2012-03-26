@@ -1,0 +1,45 @@
+h3 {font-size: 16pt}
+tt {font-size: 16pt}
+<style type="text/css">
+
+A:visited {text-decoration: none:}
+A:active {text-decoration: none:}
+A:hover {color: #6D7B8D;
+	text-decoration: none;}
+A:body link { color: #FFFFFF;}
+
+html,
+body 
+{
+background-image:url(Header Art ship bgimage.jpg);
+background-repeat:no-repeat;
+background-attachment:fixed;
+background-position:50% 130%;
+}
+
+footer position
+{
+   margin:0;
+   padding:0;
+   height:100%;
+}
+#container {
+   min-height:100%;
+   position:relative;
+}
+#header {
+   background:#ff0;
+   padding:10px;
+}
+#body {
+   padding:10px;
+   padding-bottom:60px;   /* Height of the footer */
+}
+#footer {
+   position:absolute;
+   bottom:0;
+   width:99%;
+   height:60px;   /* Height of the footer */
+   background:;
+}
+
